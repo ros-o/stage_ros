@@ -12,7 +12,7 @@ find_package(catkin REQUIRED
     tf
 )
 
-find_package(Boost REQUIRED COMPONENTS system thread)
+find_package(Boost REQUIRED COMPONENTS thread)
 
 find_package(stage REQUIRED)
 
